@@ -2,8 +2,8 @@
 include "bot.php"; //Import functions file
 
 
-$token="6064425266:AAHCk3b-PeBnGWpnvv4GuQinSJB5_fxW9dc"; //Bot Token
-$api="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";//openai ApiKey
+$token="Your Bot Token"; //Bot Token
+$api="Your OpenAi Api Key";//openai ApiKey
 
 $bot= new tgbot($token,$api); //create bot object 
 
