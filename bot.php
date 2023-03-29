@@ -1,7 +1,7 @@
 <?php
 class tgbot{
   private $token;
-private $apikey;
+  private $apikey;
   //function for api request
 private function open_url($url, $method, $data = null) {
   $ch = curl_init();
