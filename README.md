@@ -16,11 +16,3 @@ This Is A telegram Bot created using openai api coded in php
 
 - ```https://api.telegram.org/bot<bottoken>/setWebhook?url=<You Uploaded File Url>```
 
-
-For Video Tutorial <a href="https://youtu.be/MKxtz4Iudpk">click here</a>
-
-### &#8627; Stargazers
-[![Stargazers repo roster for @Armanidrisi/chatgpt-telegram-bot-php](https://reporoster.com/stars/Armanidrisi/chatgpt-telegram-bot-php)](https://github.com/Armanidrisi/chatgpt-telegram-bot-php/stargazers)
-
-### &#8627; Forkers
-[![Forkers repo roster for @Armanidrisi/chatgpt-telegram-bot-php](https://reporoster.com/forks/Armanidrisi/chatgpt-telegram-bot-php)](https://github.com/Armanidrisi/chatgpt-telegram-bot-php/network/members)
